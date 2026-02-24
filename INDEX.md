@@ -56,7 +56,7 @@
   - [Команды (в разработке)](devops/linux/commands.md)
   - [Скрипты (в разработке)](devops/linux/scripts.md)
 
-### [architecture (в разработке)](architecture/)
+### [Архитектура](./architecture/INDEX.md)
 Проектирование, паттерны, стили архитектуры.
 - [ООП и SOLID (в разработке)](architecture/oop.md)
 - [Паттерны GoF (в разработке)](architecture/design_patterns.md)
