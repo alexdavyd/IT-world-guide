@@ -71,7 +71,7 @@
 - [Деревья (в разработке)](algorithms_and_ds/trees.md)
 - [Полезные реализации (в разработке)](algorithms_and_ds/useful_snippets.md)
 
-### [tools (в разработке)](tools/)
+### [Приложения](./tools/INDEX.md)
 Инструменты разработчика, редакторы, утилиты.
 - [VS Code (в разработке)](tools/vscode/)
   - [Горячие клавиши (в разработке)](tools/vscode/shortcuts.md)
