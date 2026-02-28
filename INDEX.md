@@ -37,7 +37,7 @@
 - [MongoDB (в разработке)](databases/mongodb/)
   - [Основы (в разработке)](databases/mongodb/basics.md)
 
-### [DevOps](./devops/INDEX.md)
+### [DevOps](devops/README.md)
 Инфраструктура, CI/CD, облака, администрирование.
 - [Git (в разработке)](devops/git/)
   - [Команды (в разработке)](devops/git/commands.md)
