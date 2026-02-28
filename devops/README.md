@@ -8,4 +8,3 @@
   - [CI](./CI.md)
   - [CD](./CD.md)
 - [Docker: подробное руководство](./docker.md)
-
